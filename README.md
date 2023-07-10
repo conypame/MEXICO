@@ -1,2 +1,3 @@
-# MEXICO
-https://conypame.github.io/MEXI/ 
+# MÉXICO
+https://conypame.github.io/MEXICO/ 
+El Visor de MÉXICO presenta la información referente a los límites politicos de nivel de administración 2 con el atributo "Densidad de poblacional" expresado en pob/km2, la Capital nacional (total de población, año de fundación,idioma principal y moneda), Recursos hídricos (incluye rios y lagos), vías de comunicación terrestres (rutas y trenes), vías de comunicación no terrestres (puertos y aeropuestos). La información mencionada se obtuvo de la página Infraestructuras de Datos Espaciales (IDEA) correspondiente a México, disponible en el siguiente link : https://www.gits.igg.unam.mx/idea/descarga. Para todas las capas se utilizó el sistema de referencia EPSG: 6372 - México ITRF2008/LCC. El visor Web se generó a traves de la combinación de Qgis2Web - OpenLayer y Github. 
